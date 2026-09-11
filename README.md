@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Bilal Ahmad 👋
 
-<!--
-**bilalahmad-DS/bilalahmad-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python & Data Science Learner
 
-Here are some ideas to get you started:
+I'm learning Python and Data Science by building practical projects
+and solving real-world business problems with data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Business Data Analysis
+
+## 📊 Projects
+
+### Sales Analytics & Business Performance Analysis
+
+A practical sales analysis project using Python to identify business
+performance, sales trends, top-performing products, categories, cities,
+and customers.
+
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+
+[View Project](https://github.com/bilalahmad-DS/sales-analytics)
+
+## 🎯 Currently Learning
+
+- Data Science
+- Data Visualization
+- Machine Learning
+- Building practical data projects
+
+## 🚀 Goal
+
+To become a professional Data Analyst and use data to help businesses
+make better decisions.
+
+---
+
+**Thanks for visiting my profile!**
